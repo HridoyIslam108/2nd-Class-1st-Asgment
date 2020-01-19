@@ -1,0 +1,32 @@
+header{
+    background-color: coral;
+    height: 100px;
+}
+
+.nav{
+    background-color: cornflowerblue;
+    height: 500px;
+    width: 20%;
+    float: left;
+    margin-right: 10px;
+}
+.airtical{
+    background-color: blue;
+    height: 500px;
+    width: 59%;
+    float: left;
+}
+.sidbar{
+    background-color: yellow; 
+    height: 500px;
+    width: 20%;
+    float: right;
+}
+.content{
+    margin-top: 30px;
+    overflow: hidden;
+}
+.footer{
+    background-color: red;
+    height: 100px;
+}
